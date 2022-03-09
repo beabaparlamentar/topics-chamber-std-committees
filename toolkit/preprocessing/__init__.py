@@ -1,0 +1,3 @@
+from toolkit.preprocessing.tokenization import apply_tokenization
+from toolkit.preprocessing.stemming import apply_stemming
+from toolkit.preprocessing.vectorization import apply_vectorization
